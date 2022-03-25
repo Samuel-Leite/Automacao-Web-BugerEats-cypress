@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Samuel Leite",
+        "cpf": "00000000010",
+        "email": "samuel@gmail.com",
+        "whatsapp": "99999999999",
+        "address":{
+            "postalcode": "02860-001",
+            "street": "Avenida Deputado Cantídio Sampaio",
+            "number": "100",
+            "details": "Bloco 19",
+            "district": "Vila Souza",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "William Hoffman",
+        "cpf": "Z00000000AB",
+        "email": "joao@gmail.com",
+        "whatsapp": "99999999999",
+        "address":{
+            "postalcode": "02860-001",
+            "street": "Avenida Deputado Cantídio Sampaio",
+            "number": "100",
+            "details": "Bloco 19",
+            "district": "Vila Souza",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Samuel Leite",
+        "cpf": "00000000010",
+        "email": "samuel.com.br",
+        "whatsapp": "99999999999",
+        "address":{
+            "postalcode": "02860-001",
+            "street": "Avenida Deputado Cantídio Sampaio",
+            "number": "100",
+            "details": "Bloco 19",
+            "district": "Vila Souza",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
